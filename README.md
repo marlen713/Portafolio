@@ -7,12 +7,9 @@ REQUERIMIENTOS:
 https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Características que me gustan:
  1. Diseño limpio y atractivo: El diseño del portafolio es muy limpio y atractivo visualmente, lo que  facilita la navegación y la presentación del contenido.
-
  2. Buena organización y categorización: El portafolio está organizado en secciones bien definidas y categorizadas, lo que permite al visitante encontrar fácilmente la información que busca.
-
 Características que considero perfectibles:
  1. Falta de una sección de proyectos destacados: Sería útil contar con una sección específica donde se destaquen los proyectos más relevantes del desarrollador, para que los visitantes puedan ver rápidamente su trabajo más destacado.
-
  2. Información más detallada sobre habilidades y experiencia: Aunque el portafolio proporciona información básica sobre las habilidades y experiencia del desarrollador, sería beneficioso incluir una sección más detallada donde se describan en profundidad las tecnologías utilizadas y los logros alcanzados en proyectos anteriores.
 
 
@@ -21,6 +18,7 @@ Considero que esta prueba demuestra mi constante progreso y dedicación en la ma
 
 4. Crear mi perfil en el servidor de alojamiento
 https://marlen713.github.io/Portafolio/#
+
 
 5. Las buenas prácticas que debo considerar para un óptimo desarrollo de mi portafolio son las siguientes: 
 a) Seleccionar cuidadosamente los trabajos a incluir en el portafolio, asegurándome de que reflejen mis habilidades y fortalezas. 
