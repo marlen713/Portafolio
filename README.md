@@ -6,11 +6,11 @@ REQUERIMIENTOS:
 2. He encontrado un portafolio en BootstrapMade que me ha parecido interesante.
 https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 Características que me gustan:
- 1. Diseño limpio y atractivo: El diseño del portafolio es muy limpio y atractivo visualmente, lo que  facilita la navegación y la presentación del contenido.
- 2. Buena organización y categorización: El portafolio está organizado en secciones bien definidas y categorizadas, lo que permite al visitante encontrar fácilmente la información que busca.
+ . Diseño limpio y atractivo: El diseño del portafolio es muy limpio y atractivo visualmente, lo que  facilita la navegación y la presentación del contenido.
+ . Buena organización y categorización: El portafolio está organizado en secciones bien definidas y categorizadas, lo que permite al visitante encontrar fácilmente la información que busca.
 Características que considero perfectibles:
- 1. Falta de una sección de proyectos destacados: Sería útil contar con una sección específica donde se destaquen los proyectos más relevantes del desarrollador, para que los visitantes puedan ver rápidamente su trabajo más destacado.
- 2. Información más detallada sobre habilidades y experiencia: Aunque el portafolio proporciona información básica sobre las habilidades y experiencia del desarrollador, sería beneficioso incluir una sección más detallada donde se describan en profundidad las tecnologías utilizadas y los logros alcanzados en proyectos anteriores.
+ . Falta de una sección de proyectos destacados: Sería útil contar con una sección específica donde se destaquen los proyectos más relevantes del desarrollador, para que los visitantes puedan ver rápidamente su trabajo más destacado.
+ . Información más detallada sobre habilidades y experiencia: Aunque el portafolio proporciona información básica sobre las habilidades y experiencia del desarrollador, sería beneficioso incluir una sección más detallada donde se describan en profundidad las tecnologías utilizadas y los logros alcanzados en proyectos anteriores.
 
 
 3. https://creacionsitiowebpyme.onrender.com/
